@@ -6,7 +6,7 @@ Olá 👋
  
  🤓 Estou cursando Sistemas de Informação.
  
- 😄 Atualmente sou estagiária na empresa 5by5 Soluções em Sistemas.
+ 😄 Atualmente sou desenvolvedora na empresa 5by5 Soluções em Sistemas.
  <div align="center">
   <a href="https://github.com/HeloisaDiasFahl2004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloisaDiasFahl2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
