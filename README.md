@@ -9,7 +9,7 @@ Olá 👋
  😄 Atualmente sou estagiária na empresa 5by5 Soluções em Sistemas.
  <div align="center">
   <a href="https://github.com/HeloisaDiasFahl2004">
-   <img align="right" alt="Minha boneca" height="150" style="border-radius:50px" src="https://picrew.me/shareImg/org/202208/338224_n5mA9dg9.png">
+   <img align="right" alt="Minha boneca" height="150" style="border-radius:50px" src="octocat-1677270970505.png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloisaDiasFahl2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloisaDiasFahl2004&layout=compact&langs_count=7&theme=dracula"/>
   
