@@ -6,7 +6,7 @@ Olá 👋
  
  🤓 Estou cursando Sistemas de Informação.
  
- 😄 Atualmente sou desenvolvedora na empresa 5by5 Soluções em Sistemas.
+ 😄 Atualmente sou prestadora de serviços na empresa 5by5 Soluções em Sistemas.
 
   <div align="center">
   <a href="https://github.com/HeloisaDiasFahl2004">
