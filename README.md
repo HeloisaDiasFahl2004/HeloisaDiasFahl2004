@@ -1,6 +1,6 @@
 Olá 👋
 
- 🤗 Meu nome é Heloísa Dias Fahl, tenho 20 anos. 
+ 🤗 Meu nome é Heloísa Dias Fahl, nasci em 2004. 
 
  😍 Descobri aos 17 anos minha paixão pela tecnologia.
  
